@@ -1,0 +1,35 @@
+#
+#<?php die('Forbidden.'); ?>
+#Date: 2017-11-09 20:29:50 UTC
+#Software: Joomla Platform 13.1.0 Stable [ Curiosity ] 24-Apr-2013 00:00 GMT
+
+#Fields: datetime	priority clientip	category	message
+2017-11-09T20:29:50+00:00	INFO ::1	update	Update started by user Super User (818). Old version is 3.8.0.
+2017-11-09T20:30:03+00:00	INFO ::1	update	Downloading update file from https://s3-us-west-2.amazonaws.com/joomla-official-downloads/joomladownloads/joomla3/Joomla_3.8.2-Stable-Update_Package.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIZ6S3Q3YQHG57ZRA%2F20171110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20171110T082551Z&X-Amz-Expires=60&X-Amz-SignedHeaders=host&X-Amz-Signature=0f177f29a90d13e0b138906687fe6dc8a35741d24c0a622b83ce8bbbe018c39e.
+2017-11-09T20:31:00+00:00	INFO ::1	update	Update started by user Super User (818). Old version is 3.8.0.
+2017-11-09T20:31:04+00:00	INFO ::1	update	Downloading update file from https://s3-us-west-2.amazonaws.com/joomla-official-downloads/joomladownloads/joomla3/Joomla_3.8.2-Stable-Update_Package.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIZ6S3Q3YQHG57ZRA%2F20171110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20171110T082656Z&X-Amz-Expires=60&X-Amz-SignedHeaders=host&X-Amz-Signature=fb0c054a05f241dd734c2b8617ae156bf71d7df5508cfa086f6b98f3a6f3f389.
+2017-11-09T20:32:05+00:00	INFO ::1	update	Update started by user Super User (818). Old version is 3.8.0.
+2017-11-09T20:32:10+00:00	INFO ::1	update	Update started by user Super User (818). Old version is 3.8.0.
+2017-11-09T20:32:11+00:00	INFO ::1	update	Downloading update file from https://s3-us-west-2.amazonaws.com/joomla-official-downloads/joomladownloads/joomla3/Joomla_3.8.2-Stable-Update_Package.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIZ6S3Q3YQHG57ZRA%2F20171110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20171110T082802Z&X-Amz-Expires=60&X-Amz-SignedHeaders=host&X-Amz-Signature=74f03e3b9404f834e5bbce20eb1411565d6890db94450c8a074e7d95370fc51d.
+2017-11-09T20:32:12+00:00	INFO ::1	update	Update started by user Super User (818). Old version is 3.8.0.
+2017-11-09T20:32:12+00:00	INFO ::1	update	Update started by user Super User (818). Old version is 3.8.0.
+2017-11-09T20:32:14+00:00	INFO ::1	update	Downloading update file from https://s3-us-west-2.amazonaws.com/joomla-official-downloads/joomladownloads/joomla3/Joomla_3.8.2-Stable-Update_Package.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIZ6S3Q3YQHG57ZRA%2F20171110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20171110T082805Z&X-Amz-Expires=60&X-Amz-SignedHeaders=host&X-Amz-Signature=8865ab6c64edda28d48a90a3e1fda1dc2b1488019f32281595734bca0fe7ae7b.
+2017-11-09T20:32:17+00:00	INFO ::1	update	Downloading update file from https://s3-us-west-2.amazonaws.com/joomla-official-downloads/joomladownloads/joomla3/Joomla_3.8.2-Stable-Update_Package.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIZ6S3Q3YQHG57ZRA%2F20171110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20171110T082808Z&X-Amz-Expires=60&X-Amz-SignedHeaders=host&X-Amz-Signature=99e0ada99a459a708dce8d2897856e2f33f021dc665e5670d5c7c796263884eb.
+2017-11-09T20:32:18+00:00	INFO ::1	update	Downloading update file from https://s3-us-west-2.amazonaws.com/joomla-official-downloads/joomladownloads/joomla3/Joomla_3.8.2-Stable-Update_Package.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIZ6S3Q3YQHG57ZRA%2F20171110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20171110T082808Z&X-Amz-Expires=60&X-Amz-SignedHeaders=host&X-Amz-Signature=99e0ada99a459a708dce8d2897856e2f33f021dc665e5670d5c7c796263884eb.
+2017-11-09T20:33:26+00:00	INFO ::1	update	Update started by user Super User (818). Old version is 3.8.0.
+2017-11-09T20:33:26+00:00	INFO ::1	update	Update started by user Super User (818). Old version is 3.8.0.
+2017-11-09T20:33:31+00:00	INFO ::1	update	Downloading update file from https://s3-us-west-2.amazonaws.com/joomla-official-downloads/joomladownloads/joomla3/Joomla_3.8.2-Stable-Update_Package.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIZ6S3Q3YQHG57ZRA%2F20171110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20171110T082922Z&X-Amz-Expires=60&X-Amz-SignedHeaders=host&X-Amz-Signature=fe9f0b3d17f6fa63348d734d7c6344fbb65c7f041c7a49b42eb1230aa50b52eb.
+2017-11-09T20:33:31+00:00	INFO ::1	update	Downloading update file from https://s3-us-west-2.amazonaws.com/joomla-official-downloads/joomladownloads/joomla3/Joomla_3.8.2-Stable-Update_Package.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIZ6S3Q3YQHG57ZRA%2F20171110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20171110T082922Z&X-Amz-Expires=60&X-Amz-SignedHeaders=host&X-Amz-Signature=fe9f0b3d17f6fa63348d734d7c6344fbb65c7f041c7a49b42eb1230aa50b52eb.
+2017-11-09T23:59:14+00:00	INFO ::1	update	Update started by user Super User (818). Old version is 3.8.0.
+2017-11-09T23:59:19+00:00	INFO ::1	update	Update started by user Super User (818). Old version is 3.8.0.
+2017-11-09T23:59:20+00:00	INFO ::1	update	Downloading update file from https://s3-us-west-2.amazonaws.com/joomla-official-downloads/joomladownloads/joomla3/Joomla_3.8.2-Stable-Update_Package.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIZ6S3Q3YQHG57ZRA%2F20171110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20171110T115511Z&X-Amz-Expires=60&X-Amz-SignedHeaders=host&X-Amz-Signature=d7a9f67478f116dd85f773acf2abdd35e79322e81f448413c95f947c11b28ae6.
+2017-11-09T23:59:24+00:00	INFO ::1	update	Downloading update file from https://s3-us-west-2.amazonaws.com/joomla-official-downloads/joomladownloads/joomla3/Joomla_3.8.2-Stable-Update_Package.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIZ6S3Q3YQHG57ZRA%2F20171110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20171110T115515Z&X-Amz-Expires=60&X-Amz-SignedHeaders=host&X-Amz-Signature=c4bec1139c67e80824ce691409ab35e6a7a75a29ee133633885ebe79e3474e25.
+2017-11-13T06:55:59+00:00	INFO ::1	update	Update started by user Super User (818). Old version is 3.8.0.
+2017-11-13T06:56:08+00:00	INFO ::1	update	Downloading update file from https://s3-us-west-2.amazonaws.com/joomla-official-downloads/joomladownloads/joomla3/Joomla_3.8.2-Stable-Update_Package.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIZ6S3Q3YQHG57ZRA%2F20171113%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20171113T065636Z&X-Amz-Expires=60&X-Amz-SignedHeaders=host&X-Amz-Signature=f4dac5be3f192e8784e804725ee66f88b4632f456d38889fbe92a11e6a71b6e6.
+2017-11-13T06:56:42+00:00	INFO ::1	update	File Joomla_3.8.2-Stable-Update_Package.zip downloaded.
+2017-11-13T06:56:42+00:00	INFO ::1	update	Starting installation of new version.
+2017-11-13T06:57:30+00:00	INFO ::1	update	Finalising installation.
+2017-11-13T06:57:31+00:00	INFO ::1	update	Ran query from file 3.8.2-2017-10-14. Query text: ALTER TABLE `#__content` ADD INDEX `idx_alias` (`alias`(191));.
+2017-11-13T06:57:32+00:00	INFO ::1	update	Deleting removed files and folders.
+2017-11-13T06:57:58+00:00	INFO ::1	update	Cleaning up after installation.
+2017-11-13T06:57:58+00:00	INFO ::1	update	Update to version 3.8.2 is complete.
